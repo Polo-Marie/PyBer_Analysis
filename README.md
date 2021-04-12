@@ -23,7 +23,6 @@ Based on both the DataFrame and the multi-line chart, the following assumptions 
     - More drivers: Urban > Suburban > Rural
 
 ## Summary of the Analysis:
-
 After analyzing the data and taking time to understand its results, the following recommendations can be made to PyBer:
 
 ### Major recommendation:
@@ -32,7 +31,7 @@ After analyzing the data and taking time to understand its results, the followin
     
 **Additional recommendations that implement the major recommendation:**
 
-- In regard to Rural areas, we can consider zoning in on establishing a schedule system in the app for drivers where they can open their schedules as "ready  to drive" and a rider can book a time slot. The driver will have a count down to start driving and then get on route with an ETA given to the rider, of           course. If the driver is 10+ min late on the original ETA for a scheduled ride, the rider will be given a choice to continue to wait or book from a list of       drivers who are closer to them to take over their ride. We can only assume that passengers wait a long time for their driver to arrive considering how           spread out Rural areas typically are. We can also assume that drivers waste a lot of gas driving around with so few people in the area. We can also assume       that cancellation fees hit our drivers hard in these areas. In the end, we do not know unless we ask (the wishlist survey). In the mean time it would be a good idea to hypothesize these issues and begin working on solutions. Adjusting the app for On-Demand or Scheduled rides is an idea to make rural pickups more predictable and flexible for both party's needs (the driver and the rider), but once again, we must ensure those needs are valid through the survey.
+- In regard to Rural areas, we can consider focusing on establishing a schedule system in the app for drivers where they can open their schedules as "ready to drive" and a rider can book a time slot. The driver will have a count down to start driving and then get on route with an ETA given to the rider, of           course. If the driver is 10+ min late on the original ETA for a scheduled ride, the rider will be given a choice to continue to wait or book from a list of       drivers who are closer to them to take over their ride. We can only assume that passengers wait a long time for their driver to arrive considering how           spread out Rural areas typically are. We can also assume that drivers waste a lot of gas driving around with so few people in the area. We can also assume       that cancellation fees hit our drivers hard in these areas. In the end, we do not know unless we ask (the wishlist survey). In the mean time it would be a good idea to hypothesize these issues and begin working on solutions. Adjusting the app for On-Demand or Scheduled rides is an idea to make rural pickups more predictable and flexible for both party's needs (the driver and the rider), but once again, we must ensure those needs are valid through the survey.
 
 - In regard to Surburban areas, being that they are still their own category that falls in between Rural and Urban, let us find out what special circumstances they are most likely to encounter for their areas and approach them. We can assume that many suburban households utilize PyBer to commute back and forth downtown between home and jobs. Let us find out their wish list and zone in to making PyBer special for our "suburb 2 city 2 suburb" clientele. Perhaps we can adjust the app to where they can bookmark a driver that they like/trust, and get on their daily schedule.
     
@@ -40,4 +39,13 @@ After analyzing the data and taking time to understand its results, the followin
 
 - Lastly, in regard to our Urban areas, where there are so many drivers, but so much need in short distances, we could put the app feature of bookmarking drivers to the ultimate test. If a favored driver is in the area, riders can select them easily, while new riders and new drivers can be matched accordingly. In the long run, with many people pairing with their selected drivers, it could ease a lot of confusion and congestion in downtown areas. More people will know what car they are looking for and probably already have meet up places established, rather than random locations that block traffic. It may take stress off of our programming system because many drivers will already be pre-mapped to a client. Also in the long-term, as there is more consistency with repeated riders to drivers, and the scheduling capabilities for drivers take effect, building more predictable shifts and income experiences, we could see a significant build up of long-term drivers and a much more organized system both internally and externally, compared to our chaotic competitors. 
     
-For all of these to come in to play, we must first determine whether or not this is something our drivers and riders are interested in, so let's request those wishlists!
+## Conclusion
+
+These are ideas that may play a very big role in balancing the income disparity for city types. The truth is, different city types have different needs. So, overall, the rates demonstrating that Rural drivers make more money per ride is fair as the urban driver who makes half of that in oe ride. Rural drivers have much more road to cover and fewer consistent passengers, therefore, in the long run, they still make less money for the number of active hours they are on the app vs Urban and Suburban drivers, as shown by the weekly fares by city type in the image. 
+
+![](Analysis/PyBer_weekly_fares.png)
+
+Not only this, but for every new passenger that sits in a PyBer driver's car, like other rideshare app standards, there is a reset of the base rate to the ride, further proving the point that urban drivers may make less money per ride, but they make more money per working shift based on quantity of riders compared to the Rural and Suburban drivers. In the end, the income disparities are present because each city type is different, with different needs.  The above recommendations address these needs as we move forward with the knowledge collected from this analysis.
+
+
+Now, for these new ideas to come in to play, we must first determine whether or not this is something our drivers and riders are interested in, and where their primary needs lie, so let's request those wishlists!

@@ -1,8 +1,6 @@
 # PyBer_Analysis
 
-## Overview of the Analysis:
-Overview of the analysis: Explain the purpose of the new analysis.
-
+## Overview:
 The purpose of this analysis was to get an overall view of the ride-sharing data from a city type aspect. This was done by creating a DataFrame and then a multiple-line graph demonstrating the results of fares by city type for each week. This analysis has been greated to give PyBer a more detailed view as to how different city types affect fares, and could affect future decisions by the company.
 
 ## Results of the Analysis:
